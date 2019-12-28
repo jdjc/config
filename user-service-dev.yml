@@ -1,1 +1,5 @@
-configname:user-service-config-dev
+configname:
+  configname-user-service-config-dev
+config:
+  info: "user-service-config-dev"
+
