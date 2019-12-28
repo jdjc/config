@@ -1,4 +1,4 @@
 configname:
-  "配置当局者迷"
+  configname-user-service-config-dev
 config:
-  info: "config info for dev(master)"
+  info: "user-service-config-dev"
