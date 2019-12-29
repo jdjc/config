@@ -1,4 +1,4 @@
 configname:
   configname-user-service-config-dev
 config:
-  info: "user-service-config-dev"
+  info: "this is config.info -config-dev"
