@@ -1,4 +1,4 @@
 configname:
   configname-user-service-config-dev
 config:
-  info: "my name is lyl for config.info -config-dev"
+  info: "this is config.info -config-dev"
